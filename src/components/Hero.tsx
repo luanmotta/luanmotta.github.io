@@ -31,12 +31,6 @@ export function Hero() {
               >
                 Contact me
               </Link>
-              <Link
-                href="#experience"
-                className="inline-flex min-h-11 items-center justify-center rounded-full border border-border px-6 text-sm font-medium text-text transition-colors hover:border-accent/40 hover:text-accent active:border-accent/50"
-              >
-                Selected work
-              </Link>
             </div>
             <p className="mt-8 max-w-md text-sm leading-relaxed text-muted sm:mt-10">
               Remote with U.S. and international teams since 2019.

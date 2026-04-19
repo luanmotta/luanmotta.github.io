@@ -84,16 +84,7 @@ export function Experience() {
             Selected experience
           </h2>
           <p className="mt-3 max-w-2xl text-sm text-muted sm:text-base">
-            Recent roles where I owned delivery. Full timeline:{" "}
-            <a
-              href="https://www.linkedin.com/in/luanmotta/"
-              className="text-text underline decoration-border underline-offset-4 hover:decoration-accent"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              LinkedIn
-            </a>
-            .
+            Recent roles where I owned delivery.
           </p>
         </Reveal>
         <ol className="mt-10 space-y-6 sm:mt-12 sm:space-y-8">

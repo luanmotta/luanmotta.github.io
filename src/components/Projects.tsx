@@ -128,6 +128,8 @@ export function Projects() {
                 {p.href ? (
                   <a
                     href={p.href}
+                    target="_blank"
+                    rel="noreferrer"
                     className="mt-5 inline-flex min-h-11 items-center text-sm font-medium text-accent hover:text-text"
                   >
                     View demo &rarr;

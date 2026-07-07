@@ -5,6 +5,7 @@ import { Expertise } from "@/components/Expertise";
 import { Footer } from "@/components/Footer";
 import { Hero } from "@/components/Hero";
 import { Nav } from "@/components/Nav";
+import { Projects } from "@/components/Projects";
 
 export default function HomePage() {
   return (
@@ -13,6 +14,7 @@ export default function HomePage() {
       <main>
         <Hero />
         <About />
+        <Projects />
         <Experience />
         <Expertise />
         <Contact />
